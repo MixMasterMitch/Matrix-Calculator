@@ -1,0 +1,10 @@
+/.classpath
+**/.DS_Store
+/.gwt
+/.project
+/.settings
+/build-output
+/war/matrices
+/war/WEB-INF/classes
+/war/WEB-INF/deploy
+/war/WEB-INF/lib
